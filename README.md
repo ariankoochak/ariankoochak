@@ -5,7 +5,7 @@ Full-Stack Developer
 -----------------------------
 
 *   🖥️  See my portfolio at [ariankoochak.com](https://ariankoochak.com)
-*   🧠  I'm learning Fastify
+*   🧠  I'm learning swift
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://www.github.com/ariankoochak" target="_blank" rel="noreferrer"><img

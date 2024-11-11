@@ -1,8 +1,6 @@
 My name is Arian Koochak
 ===============================
 
-Full-Stack Developer
------------------------------
 
 *   🖥️  See my portfolio at [ariankoochak.com](https://ariankoochak.com)
 *   🧠  I'm learning Fastify

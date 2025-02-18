@@ -11,7 +11,7 @@ My name is Arian Koochak
 ### Skills
 
 
-<img src="https://skillicons.dev/icons?i=js,react,next,nodejs,express,mongodb,postgresql,cpp,python" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=js,react,next,nodejs,express,mongodb,postgresql,redis,cpp,python" alt="skills logos" />
                     
 ### Socials
                   

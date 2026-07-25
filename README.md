@@ -2,6 +2,7 @@
 
 * 🖥️ See my portfolio at [ariankoochak.com](https://ariankoochak.com)
 * 🚀 Building web products and developer tools at [Fotros Dev](https://fotros.dev)
+* 📦 Publishing open-source packages on [my npm](https://www.npmjs.com/~ariankoochak)
 * 🤝 I'm open to collaborating on interesting web development projects
 
 <a href="https://www.github.com/ariankoochak" target="_blank" rel="noreferrer">

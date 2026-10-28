@@ -1,7 +1,7 @@
 # My name is Arian Koochak
 
 * 🖥️ See my portfolio at [ariankoochak.com](https://ariankoochak.com)
-* 🚀 Building web products and developer tools at [Fotros Dev](https://fotros.dev)
+* 🚀 Building products and developer tools at [Fotros Dev](https://fotros.dev)
 * 📦 Publishing open-source packages on [my npm](https://www.npmjs.com/~ariankoochak)
 * 🤝 I'm open to collaborating on interesting web development projects
 
